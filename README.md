@@ -1,0 +1,2 @@
+# mycoinlib
+mycoinlib
